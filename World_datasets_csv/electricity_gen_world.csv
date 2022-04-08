@@ -1,0 +1,222 @@
+Technology,Year,Electricity generation by country/area (GWh)
+Biogas,2007,31035.798
+Biogas,2008,35762.577
+Biogas,2009,40651.045
+Biogas,2010,46193.236
+Biogas,2011,53839.35
+Biogas,2012,64545.214
+Biogas,2013,73485.763
+Biogas,2014,79811.107
+Biogas,2015,83398.035
+Biogas,2016,86472.696
+Biogas,2017,88139.166
+Biogas,2018,90042.41
+Biogas,2019,91139.333
+Concentrated solar power,2007,685.01
+Concentrated solar power,2008,910.247
+Concentrated solar power,2009,934.285
+Concentrated solar power,2010,1664.561
+Concentrated solar power,2011,3208.249
+Concentrated solar power,2012,5481.092
+Concentrated solar power,2013,6186.248
+Concentrated solar power,2014,9139.344
+Concentrated solar power,2015,10196.023
+Concentrated solar power,2016,11156.948
+Concentrated solar power,2017,12010.244
+Concentrated solar power,2018,12045.09
+Concentrated solar power,2019,14064.308
+Fossil fuels,2007,13341248.57
+Fossil fuels,2008,13513303.65
+Fossil fuels,2009,13311603.37
+Fossil fuels,2010,14269514.71
+Fossil fuels,2011,14924398.43
+Fossil fuels,2012,15264888.91
+Fossil fuels,2013,15625340.42
+Fossil fuels,2014,15693175.72
+Fossil fuels,2015,15849540.12
+Fossil fuels,2016,16063575.21
+Fossil fuels,2017,16397492.84
+Fossil fuels,2018,16840612.97
+Fossil fuels,2019,16658019.89
+Geothermal energy,2007,62376.077
+Geothermal energy,2008,64884.387
+Geothermal energy,2009,66887.328
+Geothermal energy,2010,68066.957
+Geothermal energy,2011,69456.119
+Geothermal energy,2012,70441.951
+Geothermal energy,2013,71961.011
+Geothermal energy,2014,76893.676
+Geothermal energy,2015,80804.899
+Geothermal energy,2016,82870.722
+Geothermal energy,2017,85618.052
+Geothermal energy,2018,89120.653
+Geothermal energy,2019,91647.188
+Liquid biofuels,2007,1692.71
+Liquid biofuels,2008,2214.16
+Liquid biofuels,2009,4225.031
+Liquid biofuels,2010,5601.65
+Liquid biofuels,2011,4067.263
+Liquid biofuels,2012,4341.367
+Liquid biofuels,2013,5093.97
+Liquid biofuels,2014,6380.251
+Liquid biofuels,2015,7790.162
+Liquid biofuels,2016,7218.607
+Liquid biofuels,2017,6785.342
+Liquid biofuels,2018,7302.24
+Liquid biofuels,2019,8381.503
+Marine energy,2007,495.159
+Marine energy,2008,487.005
+Marine energy,2009,485.872
+Marine energy,2010,514.57
+Marine energy,2011,563.905
+Marine energy,2012,962.727
+Marine energy,2013,924.893
+Marine energy,2014,998.421
+Marine energy,2015,1008.062
+Marine energy,2016,1023.198
+Marine energy,2017,1028.434
+Marine energy,2018,1001.756
+Marine energy,2019,975.484
+Mixed Hydro Plants,2007,0
+Mixed Hydro Plants,2008,0
+Mixed Hydro Plants,2009,0
+Mixed Hydro Plants,2010,0
+Mixed Hydro Plants,2011,0
+Mixed Hydro Plants,2012,0
+Mixed Hydro Plants,2013,0
+Mixed Hydro Plants,2014,0
+Mixed Hydro Plants,2015,0
+Mixed Hydro Plants,2016,0
+Mixed Hydro Plants,2017,0
+Mixed Hydro Plants,2018,0
+Mixed Hydro Plants,2019,0
+Nuclear,2007,2720120.388
+Nuclear,2008,2734723.318
+Nuclear,2009,2692627.229
+Nuclear,2010,2750408.221
+Nuclear,2011,2576728.284
+Nuclear,2012,2460229.904
+Nuclear,2013,2476945.237
+Nuclear,2014,2533390.302
+Nuclear,2015,2569723.504
+Nuclear,2016,2605681.387
+Nuclear,2017,2633426.288
+Nuclear,2018,2708825.625
+Nuclear,2019,2782756.514
+Off-grid Solar photovoltaic,2007,0
+Off-grid Solar photovoltaic,2008,0
+Off-grid Solar photovoltaic,2009,0
+Off-grid Solar photovoltaic,2010,0
+Off-grid Solar photovoltaic,2011,0
+Off-grid Solar photovoltaic,2012,0
+Off-grid Solar photovoltaic,2013,0
+Off-grid Solar photovoltaic,2014,0
+Off-grid Solar photovoltaic,2015,0
+Off-grid Solar photovoltaic,2016,0
+Off-grid Solar photovoltaic,2017,0
+Off-grid Solar photovoltaic,2018,0
+Off-grid Solar photovoltaic,2019,0
+Offshore wind energy,2007,2293.179
+Offshore wind energy,2008,3371.568
+Offshore wind energy,2009,5188.788
+Offshore wind energy,2010,7393.29
+Offshore wind energy,2011,11363.581
+Offshore wind energy,2012,14379.901
+Offshore wind energy,2013,20142.931
+Offshore wind energy,2014,25800.046
+Offshore wind energy,2015,37631.845
+Offshore wind energy,2016,42930.662
+Offshore wind energy,2017,56652.34
+Offshore wind energy,2018,68050.855
+Offshore wind energy,2019,84330.258
+On-grid Solar photovoltaic,2007,7128.823
+On-grid Solar photovoltaic,2008,11526.747
+On-grid Solar photovoltaic,2009,19619.622
+On-grid Solar photovoltaic,2010,31562.242
+On-grid Solar photovoltaic,2011,61664.635
+On-grid Solar photovoltaic,2012,95219.804
+On-grid Solar photovoltaic,2013,129880.456
+On-grid Solar photovoltaic,2014,181584.419
+On-grid Solar photovoltaic,2015,239618.184
+On-grid Solar photovoltaic,2016,311427.215
+On-grid Solar photovoltaic,2017,421656.845
+On-grid Solar photovoltaic,2018,547252.184
+On-grid Solar photovoltaic,2019,673164.645
+Onshore wind energy,2007,166571.531
+Onshore wind energy,2008,213154.996
+Onshore wind energy,2009,266504.805
+Onshore wind energy,2010,335321.855
+Onshore wind energy,2011,422175.787
+Onshore wind energy,2012,510837.242
+Onshore wind energy,2013,615608.7
+Onshore wind energy,2014,685783.369
+Onshore wind energy,2015,789861.269
+Onshore wind energy,2016,909280.952
+Onshore wind energy,2017,1074243.281
+Onshore wind energy,2018,1189356.404
+Onshore wind energy,2019,1327327.673
+Other non-renewable energy,2007,75897.393
+Other non-renewable energy,2008,75699.38
+Other non-renewable energy,2009,80616.56
+Other non-renewable energy,2010,95404.368
+Other non-renewable energy,2011,101433.749
+Other non-renewable energy,2012,98984.825
+Other non-renewable energy,2013,103749.708
+Other non-renewable energy,2014,108115.165
+Other non-renewable energy,2015,111547.896
+Other non-renewable energy,2016,125924.855
+Other non-renewable energy,2017,130642.091
+Other non-renewable energy,2018,134242.664
+Other non-renewable energy,2019,144198.074
+Pumped storage,2007,94834.33
+Pumped storage,2008,90488.237
+Pumped storage,2009,87940.684
+Pumped storage,2010,93894.466
+Pumped storage,2011,90413.696
+Pumped storage,2012,89051.531
+Pumped storage,2013,89139.678
+Pumped storage,2014,92477.105
+Pumped storage,2015,94233.319
+Pumped storage,2016,114660.89
+Pumped storage,2017,121402.518
+Pumped storage,2018,117951.491
+Pumped storage,2019,114489.182
+Renewable hydropower,2007,3061429.759
+Renewable hydropower,2008,3208418.896
+Renewable hydropower,2009,3259576.649
+Renewable hydropower,2010,3435437.042
+Renewable hydropower,2011,3492440.188
+Renewable hydropower,2012,3680297.788
+Renewable hydropower,2013,3781021.685
+Renewable hydropower,2014,3896340.34
+Renewable hydropower,2015,3890963.283
+Renewable hydropower,2016,4041677.122
+Renewable hydropower,2017,4058826.308
+Renewable hydropower,2018,4153838.406
+Renewable hydropower,2019,4198511.358
+Renewable municipal waste,2007,28397.106
+Renewable municipal waste,2008,28974.726
+Renewable municipal waste,2009,28777.73
+Renewable municipal waste,2010,39763.042
+Renewable municipal waste,2011,40660.153
+Renewable municipal waste,2012,41069.186
+Renewable municipal waste,2013,43933.38
+Renewable municipal waste,2014,46840.698
+Renewable municipal waste,2015,50200.497
+Renewable municipal waste,2016,52825.014
+Renewable municipal waste,2017,57616.173
+Renewable municipal waste,2018,62589.331
+Renewable municipal waste,2019,68505.828
+Solid biofuels,2007,170400.123
+Solid biofuels,2008,182312.172
+Solid biofuels,2009,195131.352
+Solid biofuels,2010,209480.036
+Solid biofuels,2011,226190.55
+Solid biofuels,2012,248077.737
+Solid biofuels,2013,268548.539
+Solid biofuels,2014,289787.899
+Solid biofuels,2015,304249.055
+Solid biofuels,2016,325059.882
+Solid biofuels,2017,335436.801
+Solid biofuels,2018,349268.761
+Solid biofuels,2019,371048.119
