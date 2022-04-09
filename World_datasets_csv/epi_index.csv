@@ -1,0 +1,2161 @@
+country,index,value
+Denmark,EPI.new,82.5
+Luxembourg,EPI.new,82.3
+Switzerland,EPI.new,81.5
+United Kingdom,EPI.new,81.3
+France,EPI.new,80.0
+Austria,EPI.new,79.6
+Finland,EPI.new,78.9
+Sweden,EPI.new,78.7
+Norway,EPI.new,77.7
+Germany,EPI.new,77.2
+Netherlands,EPI.new,75.3
+Japan,EPI.new,75.1
+Australia,EPI.new,74.9
+Spain,EPI.new,74.3
+Belgium,EPI.new,73.3
+Ireland,EPI.new,72.8
+Iceland,EPI.new,72.3
+Slovenia,EPI.new,72.0
+New Zealand,EPI.new,71.3
+Czech Republic,EPI.new,71.0
+Italy,EPI.new,71.0
+Canada,EPI.new,71.0
+Malta,EPI.new,70.7
+United States of America,EPI.new,69.3
+Greece,EPI.new,69.1
+Slovakia,EPI.new,68.3
+Portugal,EPI.new,67.0
+South Korea,EPI.new,66.5
+Israel,EPI.new,65.8
+Estonia,EPI.new,65.3
+Cyprus,EPI.new,64.8
+Romania,EPI.new,64.7
+Hungary,EPI.new,63.7
+Croatia,EPI.new,63.1
+Lithuania,EPI.new,62.9
+Latvia,EPI.new,61.6
+Poland,EPI.new,60.9
+Seychelles,EPI.new,58.2
+Singapore,EPI.new,58.1
+Taiwan,EPI.new,57.2
+Bulgaria,EPI.new,57.0
+United Arab Emirates,EPI.new,55.6
+North Macedonia,EPI.new,55.4
+Chile,EPI.new,55.3
+Serbia,EPI.new,55.2
+Brunei Darussalam,EPI.new,54.8
+Kuwait,EPI.new,53.6
+Jordan,EPI.new,53.4
+Belarus,EPI.new,53.0
+Colombia,EPI.new,52.9
+Mexico,EPI.new,52.6
+Costa Rica,EPI.new,52.5
+Armenia,EPI.new,52.3
+Argentina,EPI.new,52.2
+Brazil,EPI.new,51.2
+Ecuador,EPI.new,51.0
+Bahrain,EPI.new,51.0
+Russia,EPI.new,50.5
+Venezuela,EPI.new,50.3
+Ukraine,EPI.new,49.5
+Uruguay,EPI.new,49.1
+Albania,EPI.new,49.0
+Antigua and Barbuda,EPI.new,48.5
+Cuba,EPI.new,48.4
+Saint Vincent and the Grenadines,EPI.new,48.4
+Jamaica,EPI.new,48.2
+Iran,EPI.new,48.0
+Malaysia,EPI.new,47.9
+Trinidad and Tobago,EPI.new,47.5
+Panama,EPI.new,47.3
+Tunisia,EPI.new,46.7
+Azerbaijan,EPI.new,46.5
+Paraguay,EPI.new,46.4
+Montenegro,EPI.new,46.3
+Dominican Republic,EPI.new,46.3
+Gabon,EPI.new,45.8
+Barbados,EPI.new,45.6
+Thailand,EPI.new,45.4
+Bosnia and Herzegovina,EPI.new,45.4
+Lebanon,EPI.new,45.4
+Suriname,EPI.new,45.2
+Tonga,EPI.new,45.1
+Mauritius,EPI.new,45.1
+Algeria,EPI.new,44.8
+Kazakhstan,EPI.new,44.7
+Dominica,EPI.new,44.6
+Moldova,EPI.new,44.4
+Uzbekistan,EPI.new,44.3
+Bolivia,EPI.new,44.3
+Peru,EPI.new,44.0
+Saudi Arabia,EPI.new,44.0
+Turkmenistan,EPI.new,43.9
+Bahamas,EPI.new,43.5
+Egypt,EPI.new,43.3
+El Salvador,EPI.new,43.1
+Grenada,EPI.new,43.1
+South Africa,EPI.new,43.1
+Saint Lucia,EPI.new,43.1
+Turkey,EPI.new,42.6
+Morocco,EPI.new,42.3
+Belize,EPI.new,41.9
+Georgia,EPI.new,41.3
+Botswana,EPI.new,40.4
+Namibia,EPI.new,40.2
+Kyrgyzstan,EPI.new,39.8
+Iraq,EPI.new,39.5
+Bhutan,EPI.new,39.3
+Nicaragua,EPI.new,39.2
+Sri Lanka,EPI.new,39.0
+Oman,EPI.new,38.5
+Philippines,EPI.new,38.4
+Malawi,EPI.new,38.3
+Burkina Faso,EPI.new,38.3
+Tajikistan,EPI.new,38.2
+Equatorial Guinea,EPI.new,38.1
+Indonesia,EPI.new,37.8
+Honduras,EPI.new,37.8
+Kiribati,EPI.new,37.7
+Sao Tome and Principe,EPI.new,37.6
+China,EPI.new,37.3
+Samoa,EPI.new,37.3
+Qatar,EPI.new,37.1
+Zimbabwe,EPI.new,37.0
+Central African Republic,EPI.new,36.9
+Dem. Rep. Congo,EPI.new,36.4
+Guyana,EPI.new,35.9
+Maldives,EPI.new,35.6
+Uganda,EPI.new,35.6
+Timor-Leste,EPI.new,35.3
+Sudan,EPI.new,34.8
+Laos,EPI.new,34.8
+Zambia,EPI.new,34.7
+Kenya,EPI.new,34.7
+Ethiopia,EPI.new,34.4
+Fiji,EPI.new,34.4
+Mozambique,EPI.new,33.9
+Eswatini,EPI.new,33.8
+Rwanda,EPI.new,33.8
+Cambodia,EPI.new,33.6
+Cameroon,EPI.new,33.6
+Viet Nam,EPI.new,33.4
+Pakistan,EPI.new,33.1
+Micronesia,EPI.new,33.0
+Cabo Verde,EPI.new,32.8
+Nepal,EPI.new,32.7
+Papua New Guinea,EPI.new,32.4
+Mongolia,EPI.new,32.2
+Comoros,EPI.new,32.1
+Guatemala,EPI.new,31.8
+Tanzania,EPI.new,31.1
+Nigeria,EPI.new,31.0
+Niger,EPI.new,30.8
+Marshall Islands,EPI.new,30.8
+Republic of Congo,EPI.new,30.8
+Senegal,EPI.new,30.7
+Eritrea,EPI.new,30.4
+Benin,EPI.new,30.0
+Angola,EPI.new,29.7
+Togo,EPI.new,29.5
+Mali,EPI.new,29.4
+Guinea-Bissau,EPI.new,29.1
+Bangladesh,EPI.new,29.0
+Vanuatu,EPI.new,28.9
+Djibouti,EPI.new,28.1
+Lesotho,EPI.new,28.0
+Gambia,EPI.new,27.9
+Mauritania,EPI.new,27.7
+Ghana,EPI.new,27.6
+India,EPI.new,27.6
+Burundi,EPI.new,27.0
+Haiti,EPI.new,27.0
+Solomon Islands,EPI.new,26.7
+Chad,EPI.new,26.7
+Madagascar,EPI.new,26.5
+Guinea,EPI.new,26.4
+Cote d'Ivoire,EPI.new,25.8
+Sierra Leone,EPI.new,25.7
+Afghanistan,EPI.new,25.5
+Myanmar,EPI.new,25.1
+Liberia,EPI.new,22.6
+Denmark,AIR.new,85.5
+Luxembourg,AIR.new,87.2
+Switzerland,AIR.new,90.6
+United Kingdom,AIR.new,84.7
+France,AIR.new,88.1
+Austria,AIR.new,81.3
+Finland,AIR.new,98.8
+Sweden,AIR.new,98.2
+Norway,AIR.new,97.9
+Germany,AIR.new,81.1
+Netherlands,AIR.new,82.4
+Japan,AIR.new,85.9
+Australia,AIR.new,98.2
+Spain,AIR.new,80.2
+Belgium,AIR.new,80.7
+Ireland,AIR.new,94.0
+Iceland,AIR.new,98.1
+Slovenia,AIR.new,60.9
+New Zealand,AIR.new,97.4
+Czech Republic,AIR.new,58.8
+Italy,AIR.new,75.9
+Canada,AIR.new,94.8
+Malta,AIR.new,77.6
+United States of America,AIR.new,84.2
+Greece,AIR.new,67.5
+Slovakia,AIR.new,56.2
+Portugal,AIR.new,84.4
+South Korea,AIR.new,71.7
+Israel,AIR.new,76.5
+Estonia,AIR.new,80.3
+Cyprus,AIR.new,73.1
+Romania,AIR.new,43.6
+Hungary,AIR.new,42.8
+Croatia,AIR.new,50.8
+Lithuania,AIR.new,62.7
+Latvia,AIR.new,54.8
+Poland,AIR.new,44.7
+Seychelles,AIR.new,53.6
+Singapore,AIR.new,76.9
+Taiwan,AIR.new,53.2
+Bulgaria,AIR.new,33.0
+United Arab Emirates,AIR.new,48.6
+North Macedonia,AIR.new,26.5
+Chile,AIR.new,56.1
+Serbia,AIR.new,33.6
+Brunei Darussalam,AIR.new,68.4
+Kuwait,AIR.new,55.0
+Jordan,AIR.new,58.0
+Belarus,AIR.new,49.9
+Colombia,AIR.new,49.1
+Mexico,AIR.new,40.8
+Costa Rica,AIR.new,56.2
+Armenia,AIR.new,36.3
+Argentina,AIR.new,56.9
+Brazil,AIR.new,50.0
+Ecuador,AIR.new,48.7
+Bahrain,AIR.new,41.2
+Russia,AIR.new,54.1
+Venezuela,AIR.new,51.3
+Ukraine,AIR.new,39.8
+Uruguay,AIR.new,67.7
+Albania,AIR.new,41.2
+Antigua and Barbuda,AIR.new,57.5
+Cuba,AIR.new,53.9
+Saint Vincent and the Grenadines,AIR.new,42.6
+Jamaica,AIR.new,43.6
+Iran,AIR.new,49.2
+Malaysia,AIR.new,50.3
+Trinidad and Tobago,AIR.new,57.2
+Panama,AIR.new,56.0
+Tunisia,AIR.new,48.7
+Azerbaijan,AIR.new,24.9
+Paraguay,AIR.new,47.0
+Montenegro,AIR.new,33.9
+Dominican Republic,AIR.new,37.4
+Gabon,AIR.new,28.2
+Barbados,AIR.new,66.0
+Thailand,AIR.new,40.6
+Bosnia and Herzegovina,AIR.new,31.6
+Lebanon,AIR.new,47.8
+Suriname,AIR.new,37.4
+Tonga,AIR.new,39.5
+Mauritius,AIR.new,51.1
+Algeria,AIR.new,45.3
+Kazakhstan,AIR.new,32.0
+Dominica,AIR.new,44.2
+Moldova,AIR.new,44.3
+Uzbekistan,AIR.new,15.0
+Bolivia,AIR.new,32.4
+Peru,AIR.new,46.0
+Saudi Arabia,AIR.new,37.4
+Turkmenistan,AIR.new,42.0
+Bahamas,AIR.new,55.6
+Egypt,AIR.new,35.3
+El Salvador,AIR.new,42.6
+Grenada,AIR.new,42.9
+South Africa,AIR.new,28.9
+Saint Lucia,AIR.new,46.3
+Turkey,AIR.new,49.5
+Morocco,AIR.new,27.0
+Belize,AIR.new,39.4
+Georgia,AIR.new,31.1
+Botswana,AIR.new,19.7
+Namibia,AIR.new,24.4
+Kyrgyzstan,AIR.new,27.0
+Iraq,AIR.new,36.3
+Bhutan,AIR.new,24.4
+Nicaragua,AIR.new,41.7
+Sri Lanka,AIR.new,37.8
+Oman,AIR.new,36.4
+Philippines,AIR.new,30.4
+Malawi,AIR.new,39.6
+Burkina Faso,AIR.new,28.9
+Tajikistan,AIR.new,15.2
+Equatorial Guinea,AIR.new,24.6
+Indonesia,AIR.new,26.8
+Honduras,AIR.new,35.4
+Kiribati,AIR.new,29.2
+Sao Tome and Principe,AIR.new,24.6
+China,AIR.new,27.1
+Samoa,AIR.new,33.4
+Qatar,AIR.new,48.6
+Zimbabwe,AIR.new,27.2
+Central African Republic,AIR.new,22.0
+Dem. Rep. Congo,AIR.new,29.9
+Guyana,AIR.new,31.9
+Maldives,AIR.new,51.2
+Uganda,AIR.new,32.6
+Timor-Leste,AIR.new,33.6
+Sudan,AIR.new,17.6
+Laos,AIR.new,27.8
+Zambia,AIR.new,27.0
+Kenya,AIR.new,34.9
+Ethiopia,AIR.new,38.0
+Fiji,AIR.new,30.0
+Mozambique,AIR.new,40.7
+Eswatini,AIR.new,21.1
+Rwanda,AIR.new,30.9
+Cambodia,AIR.new,30.1
+Cameroon,AIR.new,16.4
+Viet Nam,AIR.new,32.0
+Pakistan,AIR.new,9.9
+Micronesia,AIR.new,29.0
+Cabo Verde,AIR.new,26.5
+Nepal,AIR.new,14.6
+Papua New Guinea,AIR.new,33.9
+Mongolia,AIR.new,17.4
+Comoros,AIR.new,37.7
+Guatemala,AIR.new,34.3
+Tanzania,AIR.new,35.8
+Nigeria,AIR.new,18.0
+Niger,AIR.new,30.3
+Marshall Islands,AIR.new,32.5
+Republic of Congo,AIR.new,20.0
+Senegal,AIR.new,25.4
+Eritrea,AIR.new,22.1
+Benin,AIR.new,25.6
+Angola,AIR.new,26.8
+Togo,AIR.new,24.1
+Mali,AIR.new,29.2
+Guinea-Bissau,AIR.new,22.1
+Bangladesh,AIR.new,20.2
+Vanuatu,AIR.new,28.6
+Djibouti,AIR.new,21.1
+Lesotho,AIR.new,15.3
+Gambia,AIR.new,23.9
+Mauritania,AIR.new,22.4
+Ghana,AIR.new,18.0
+India,AIR.new,13.4
+Burundi,AIR.new,36.0
+Haiti,AIR.new,31.1
+Solomon Islands,AIR.new,27.0
+Chad,AIR.new,26.8
+Madagascar,AIR.new,36.1
+Guinea,AIR.new,24.7
+Cote d'Ivoire,AIR.new,20.3
+Sierra Leone,AIR.new,25.1
+Afghanistan,AIR.new,17.7
+Myanmar,AIR.new,20.7
+Liberia,AIR.new,30.9
+Denmark,H2O.new,97.4
+Luxembourg,H2O.new,98.6
+Switzerland,H2O.new,100.0
+United Kingdom,H2O.new,100.0
+France,H2O.new,96.2
+Austria,H2O.new,94.7
+Finland,H2O.new,100.0
+Sweden,H2O.new,98.5
+Norway,H2O.new,100.0
+Germany,H2O.new,99.0
+Netherlands,H2O.new,100.0
+Japan,H2O.new,95.0
+Australia,H2O.new,87.0
+Spain,H2O.new,96.8
+Belgium,H2O.new,93.6
+Ireland,H2O.new,97.4
+Iceland,H2O.new,100.0
+Slovenia,H2O.new,74.7
+New Zealand,H2O.new,80.4
+Czech Republic,H2O.new,76.4
+Italy,H2O.new,98.2
+Canada,H2O.new,88.0
+Malta,H2O.new,99.8
+United States of America,H2O.new,86.1
+Greece,H2O.new,98.2
+Slovakia,H2O.new,71.8
+Portugal,H2O.new,83.4
+South Korea,H2O.new,90.7
+Israel,H2O.new,92.8
+Estonia,H2O.new,61.9
+Cyprus,H2O.new,93.9
+Romania,H2O.new,55.9
+Hungary,H2O.new,62.2
+Croatia,H2O.new,70.2
+Lithuania,H2O.new,58.3
+Latvia,H2O.new,59.0
+Poland,H2O.new,71.7
+Seychelles,H2O.new,51.4
+Singapore,H2O.new,93.2
+Taiwan,H2O.new,72.4
+Bulgaria,H2O.new,68.3
+United Arab Emirates,H2O.new,67.2
+North Macedonia,H2O.new,61.1
+Chile,H2O.new,68.1
+Serbia,H2O.new,65.5
+Brunei Darussalam,H2O.new,85.6
+Kuwait,H2O.new,67.4
+Jordan,H2O.new,62.6
+Belarus,H2O.new,60.5
+Colombia,H2O.new,55.8
+Mexico,H2O.new,52.8
+Costa Rica,H2O.new,66.1
+Armenia,H2O.new,57.2
+Argentina,H2O.new,64.7
+Brazil,H2O.new,46.1
+Ecuador,H2O.new,50.2
+Bahrain,H2O.new,56.6
+Russia,H2O.new,55.4
+Venezuela,H2O.new,46.8
+Ukraine,H2O.new,55.1
+Uruguay,H2O.new,70.8
+Albania,H2O.new,54.0
+Antigua and Barbuda,H2O.new,50.0
+Cuba,H2O.new,49.6
+Saint Vincent and the Grenadines,H2O.new,43.5
+Jamaica,H2O.new,49.3
+Iran,H2O.new,53.6
+Malaysia,H2O.new,57.6
+Trinidad and Tobago,H2O.new,53.4
+Panama,H2O.new,43.5
+Tunisia,H2O.new,52.6
+Azerbaijan,H2O.new,45.5
+Paraguay,H2O.new,47.5
+Montenegro,H2O.new,65.6
+Dominican Republic,H2O.new,38.9
+Gabon,H2O.new,27.6
+Barbados,H2O.new,51.9
+Thailand,H2O.new,55.8
+Bosnia and Herzegovina,H2O.new,61.4
+Lebanon,H2O.new,59.7
+Suriname,H2O.new,39.3
+Tonga,H2O.new,46.4
+Mauritius,H2O.new,65.5
+Algeria,H2O.new,53.2
+Kazakhstan,H2O.new,55.1
+Dominica,H2O.new,47.5
+Moldova,H2O.new,50.0
+Uzbekistan,H2O.new,52.0
+Bolivia,H2O.new,40.0
+Peru,H2O.new,43.0
+Saudi Arabia,H2O.new,59.3
+Turkmenistan,H2O.new,47.3
+Bahamas,H2O.new,55.0
+Egypt,H2O.new,36.6
+El Salvador,H2O.new,41.6
+Grenada,H2O.new,47.0
+South Africa,H2O.new,24.6
+Saint Lucia,H2O.new,45.4
+Turkey,H2O.new,52.6
+Morocco,H2O.new,40.8
+Belize,H2O.new,42.6
+Georgia,H2O.new,51.6
+Botswana,H2O.new,20.8
+Namibia,H2O.new,19.6
+Kyrgyzstan,H2O.new,45.5
+Iraq,H2O.new,49.6
+Bhutan,H2O.new,31.2
+Nicaragua,H2O.new,42.8
+Sri Lanka,H2O.new,48.4
+Oman,H2O.new,58.3
+Philippines,H2O.new,39.0
+Malawi,H2O.new,12.0
+Burkina Faso,H2O.new,7.7
+Tajikistan,H2O.new,30.9
+Equatorial Guinea,H2O.new,33.1
+Indonesia,H2O.new,28.4
+Honduras,H2O.new,31.8
+Kiribati,H2O.new,16.3
+Sao Tome and Principe,H2O.new,35.2
+China,H2O.new,59.4
+Samoa,H2O.new,49.2
+Qatar,H2O.new,66.5
+Zimbabwe,H2O.new,16.8
+Central African Republic,H2O.new,0.0
+Dem. Rep. Congo,H2O.new,13.5
+Guyana,H2O.new,35.3
+Maldives,H2O.new,47.8
+Uganda,H2O.new,17.6
+Timor-Leste,H2O.new,25.9
+Sudan,H2O.new,22.3
+Laos,H2O.new,26.5
+Zambia,H2O.new,13.4
+Kenya,H2O.new,13.6
+Ethiopia,H2O.new,10.9
+Fiji,H2O.new,34.6
+Mozambique,H2O.new,16.4
+Eswatini,H2O.new,12.6
+Rwanda,H2O.new,16.9
+Cambodia,H2O.new,34.2
+Cameroon,H2O.new,7.7
+Viet Nam,H2O.new,52.7
+Pakistan,H2O.new,17.4
+Micronesia,H2O.new,35.5
+Cabo Verde,H2O.new,35.5
+Nepal,H2O.new,27.0
+Papua New Guinea,H2O.new,15.5
+Mongolia,H2O.new,43.1
+Comoros,H2O.new,15.2
+Guatemala,H2O.new,28.2
+Tanzania,H2O.new,18.4
+Nigeria,H2O.new,4.9
+Niger,H2O.new,1.4
+Marshall Islands,H2O.new,32.2
+Republic of Congo,H2O.new,14.6
+Senegal,H2O.new,13.1
+Eritrea,H2O.new,6.3
+Benin,H2O.new,13.4
+Angola,H2O.new,12.8
+Togo,H2O.new,5.1
+Mali,H2O.new,8.2
+Guinea-Bissau,H2O.new,6.7
+Bangladesh,H2O.new,27.3
+Vanuatu,H2O.new,21.5
+Djibouti,H2O.new,18.3
+Lesotho,H2O.new,7.2
+Gambia,H2O.new,19.1
+Mauritania,H2O.new,13.6
+Ghana,H2O.new,20.8
+India,H2O.new,19.4
+Burundi,H2O.new,5.3
+Haiti,H2O.new,14.0
+Solomon Islands,H2O.new,14.0
+Chad,H2O.new,0.0
+Madagascar,H2O.new,5.9
+Guinea,H2O.new,11.2
+Cote d'Ivoire,H2O.new,17.2
+Sierra Leone,H2O.new,11.5
+Afghanistan,H2O.new,28.0
+Myanmar,H2O.new,30.8
+Liberia,H2O.new,9.8
+Denmark,HMT.new,100.0
+Luxembourg,HMT.new,96.1
+Switzerland,HMT.new,95.0
+United Kingdom,HMT.new,94.6
+France,HMT.new,84.0
+Austria,HMT.new,91.7
+Finland,HMT.new,100.0
+Sweden,HMT.new,98.0
+Norway,HMT.new,94.0
+Germany,HMT.new,90.7
+Netherlands,HMT.new,95.1
+Japan,HMT.new,100.0
+Australia,HMT.new,77.2
+Spain,HMT.new,71.3
+Belgium,HMT.new,67.4
+Ireland,HMT.new,82.7
+Iceland,HMT.new,96.1
+Slovenia,HMT.new,88.1
+New Zealand,HMT.new,75.5
+Czech Republic,HMT.new,76.4
+Italy,HMT.new,81.5
+Canada,HMT.new,96.6
+Malta,HMT.new,50.6
+United States of America,HMT.new,75.9
+Greece,HMT.new,69.4
+Slovakia,HMT.new,69.2
+Portugal,HMT.new,65.3
+South Korea,HMT.new,89.4
+Israel,HMT.new,92.1
+Estonia,HMT.new,87.4
+Cyprus,HMT.new,69.4
+Romania,HMT.new,51.4
+Hungary,HMT.new,68.2
+Croatia,HMT.new,75.1
+Lithuania,HMT.new,83.9
+Latvia,HMT.new,78.4
+Poland,HMT.new,65.3
+Seychelles,HMT.new,68.6
+Singapore,HMT.new,85.4
+Taiwan,HMT.new,73.6
+Bulgaria,HMT.new,45.8
+United Arab Emirates,HMT.new,54.3
+North Macedonia,HMT.new,46.7
+Chile,HMT.new,97.8
+Serbia,HMT.new,51.1
+Brunei Darussalam,HMT.new,68.4
+Kuwait,HMT.new,56.8
+Jordan,HMT.new,46.7
+Belarus,HMT.new,57.7
+Colombia,HMT.new,61.9
+Mexico,HMT.new,45.7
+Costa Rica,HMT.new,53.8
+Armenia,HMT.new,50.8
+Argentina,HMT.new,73.1
+Brazil,HMT.new,58.9
+Ecuador,HMT.new,63.0
+Bahrain,HMT.new,58.7
+Russia,HMT.new,72.2
+Venezuela,HMT.new,43.1
+Ukraine,HMT.new,69.3
+Uruguay,HMT.new,62.3
+Albania,HMT.new,46.1
+Antigua and Barbuda,HMT.new,60.5
+Cuba,HMT.new,48.3
+Saint Vincent and the Grenadines,HMT.new,34.7
+Jamaica,HMT.new,48.9
+Iran,HMT.new,27.4
+Malaysia,HMT.new,62.1
+Trinidad and Tobago,HMT.new,82.0
+Panama,HMT.new,57.5
+Tunisia,HMT.new,36.5
+Azerbaijan,HMT.new,41.0
+Paraguay,HMT.new,51.2
+Montenegro,HMT.new,65.2
+Dominican Republic,HMT.new,30.0
+Gabon,HMT.new,54.1
+Barbados,HMT.new,70.4
+Thailand,HMT.new,81.6
+Bosnia and Herzegovina,HMT.new,42.9
+Lebanon,HMT.new,43.6
+Suriname,HMT.new,43.2
+Tonga,HMT.new,78.8
+Mauritius,HMT.new,66.8
+Algeria,HMT.new,38.9
+Kazakhstan,HMT.new,52.8
+Dominica,HMT.new,52.8
+Moldova,HMT.new,54.7
+Uzbekistan,HMT.new,27.8
+Bolivia,HMT.new,43.7
+Peru,HMT.new,68.2
+Saudi Arabia,HMT.new,35.4
+Turkmenistan,HMT.new,43.5
+Bahamas,HMT.new,67.1
+Egypt,HMT.new,13.5
+El Salvador,HMT.new,35.5
+Grenada,HMT.new,41.9
+South Africa,HMT.new,58.8
+Saint Lucia,HMT.new,51.8
+Turkey,HMT.new,61.5
+Morocco,HMT.new,28.9
+Belize,HMT.new,54.5
+Georgia,HMT.new,49.9
+Botswana,HMT.new,39.8
+Namibia,HMT.new,44.5
+Kyrgyzstan,HMT.new,40.8
+Iraq,HMT.new,29.6
+Bhutan,HMT.new,43.3
+Nicaragua,HMT.new,34.5
+Sri Lanka,HMT.new,72.4
+Oman,HMT.new,37.0
+Philippines,HMT.new,48.0
+Malawi,HMT.new,37.4
+Burkina Faso,HMT.new,29.7
+Tajikistan,HMT.new,15.7
+Equatorial Guinea,HMT.new,40.1
+Indonesia,HMT.new,34.6
+Honduras,HMT.new,20.7
+Kiribati,HMT.new,37.0
+Sao Tome and Principe,HMT.new,45.0
+China,HMT.new,37.6
+Samoa,HMT.new,68.6
+Qatar,HMT.new,59.2
+Zimbabwe,HMT.new,32.6
+Central African Republic,HMT.new,24.0
+Dem. Rep. Congo,HMT.new,36.1
+Guyana,HMT.new,24.9
+Maldives,HMT.new,55.4
+Uganda,HMT.new,41.9
+Timor-Leste,HMT.new,34.3
+Sudan,HMT.new,7.1
+Laos,HMT.new,34.7
+Zambia,HMT.new,42.4
+Kenya,HMT.new,50.6
+Ethiopia,HMT.new,35.8
+Fiji,HMT.new,77.0
+Mozambique,HMT.new,23.7
+Eswatini,HMT.new,40.2
+Rwanda,HMT.new,45.2
+Cambodia,HMT.new,35.0
+Cameroon,HMT.new,36.1
+Viet Nam,HMT.new,47.8
+Pakistan,HMT.new,23.0
+Micronesia,HMT.new,41.5
+Cabo Verde,HMT.new,59.5
+Nepal,HMT.new,27.2
+Papua New Guinea,HMT.new,60.3
+Mongolia,HMT.new,33.2
+Comoros,HMT.new,47.1
+Guatemala,HMT.new,30.6
+Tanzania,HMT.new,43.6
+Nigeria,HMT.new,51.5
+Niger,HMT.new,27.3
+Marshall Islands,HMT.new,46.6
+Republic of Congo,HMT.new,45.1
+Senegal,HMT.new,47.7
+Eritrea,HMT.new,38.3
+Benin,HMT.new,36.8
+Angola,HMT.new,37.3
+Togo,HMT.new,43.7
+Mali,HMT.new,32.5
+Guinea-Bissau,HMT.new,28.5
+Bangladesh,HMT.new,23.2
+Vanuatu,HMT.new,45.6
+Djibouti,HMT.new,46.2
+Lesotho,HMT.new,25.0
+Gambia,HMT.new,37.1
+Mauritania,HMT.new,55.8
+Ghana,HMT.new,55.3
+India,HMT.new,21.0
+Burundi,HMT.new,35.8
+Haiti,HMT.new,12.1
+Solomon Islands,HMT.new,25.5
+Chad,HMT.new,29.1
+Madagascar,HMT.new,33.0
+Guinea,HMT.new,32.9
+Cote d'Ivoire,HMT.new,44.9
+Sierra Leone,HMT.new,37.4
+Afghanistan,HMT.new,0.0
+Myanmar,HMT.new,38.2
+Liberia,HMT.new,37.3
+Denmark,WMG.new,99.8
+Luxembourg,WMG.new,96.2
+Switzerland,WMG.new,99.0
+United Kingdom,WMG.new,92.9
+France,WMG.new,94.8
+Austria,WMG.new,97.2
+Finland,WMG.new,97.7
+Sweden,WMG.new,99.8
+Norway,WMG.new,97.6
+Germany,WMG.new,97.9
+Netherlands,WMG.new,100.0
+Japan,WMG.new,86.5
+Australia,WMG.new,77.3
+Spain,WMG.new,89.0
+Belgium,WMG.new,97.6
+Ireland,WMG.new,81.7
+Iceland,WMG.new,84.8
+Slovenia,WMG.new,83.8
+New Zealand,WMG.new,68.0
+Czech Republic,WMG.new,89.5
+Italy,WMG.new,83.7
+Canada,WMG.new,84.7
+Malta,WMG.new,96.7
+United States of America,WMG.new,48.3
+Greece,WMG.new,83.0
+Slovakia,WMG.new,80.6
+Portugal,WMG.new,90.2
+South Korea,WMG.new,96.7
+Israel,WMG.new,72.2
+Estonia,WMG.new,74.4
+Cyprus,WMG.new,77.5
+Romania,WMG.new,65.8
+Hungary,WMG.new,89.2
+Croatia,WMG.new,80.0
+Lithuania,WMG.new,87.8
+Latvia,WMG.new,61.4
+Poland,WMG.new,91.1
+Seychelles,WMG.new,0.0
+Singapore,WMG.new,99.6
+Taiwan,WMG.new,0.0
+Bulgaria,WMG.new,83.6
+United Arab Emirates,WMG.new,26.8
+North Macedonia,WMG.new,72.1
+Chile,WMG.new,65.7
+Serbia,WMG.new,44.7
+Brunei Darussalam,WMG.new,42.5
+Kuwait,WMG.new,0.0
+Jordan,WMG.new,43.1
+Belarus,WMG.new,77.5
+Colombia,WMG.new,100.0
+Mexico,WMG.new,74.3
+Costa Rica,WMG.new,64.8
+Armenia,WMG.new,0.0
+Argentina,WMG.new,44.6
+Brazil,WMG.new,65.8
+Ecuador,WMG.new,53.6
+Bahrain,WMG.new,60.4
+Russia,WMG.new,3.2
+Venezuela,WMG.new,0.0
+Ukraine,WMG.new,73.1
+Uruguay,WMG.new,48.9
+Albania,WMG.new,0.0
+Antigua and Barbuda,WMG.new,75.1
+Cuba,WMG.new,25.9
+Saint Vincent and the Grenadines,WMG.new,72.8
+Jamaica,WMG.new,31.7
+Iran,WMG.new,19.0
+Malaysia,WMG.new,81.4
+Trinidad and Tobago,WMG.new,10.4
+Panama,WMG.new,42.0
+Tunisia,WMG.new,39.6
+Azerbaijan,WMG.new,0.0
+Paraguay,WMG.new,35.0
+Montenegro,WMG.new,5.3
+Dominican Republic,WMG.new,5.7
+Gabon,WMG.new,0.0
+Barbados,WMG.new,67.2
+Thailand,WMG.new,32.9
+Bosnia and Herzegovina,WMG.new,27.9
+Lebanon,WMG.new,61.4
+Suriname,WMG.new,0.0
+Tonga,WMG.new,27.2
+Mauritius,WMG.new,98.0
+Algeria,WMG.new,91.6
+Kazakhstan,WMG.new,2.2
+Dominica,WMG.new,62.4
+Moldova,WMG.new,13.8
+Uzbekistan,WMG.new,0.0
+Bolivia,WMG.new,31.1
+Peru,WMG.new,30.0
+Saudi Arabia,WMG.new,61.4
+Turkmenistan,WMG.new,59.2
+Bahamas,WMG.new,0.0
+Egypt,WMG.new,16.3
+El Salvador,WMG.new,55.5
+Grenada,WMG.new,78.8
+South Africa,WMG.new,77.0
+Saint Lucia,WMG.new,77.5
+Turkey,WMG.new,48.5
+Morocco,WMG.new,39.6
+Belize,WMG.new,17.0
+Georgia,WMG.new,0.0
+Botswana,WMG.new,0.7
+Namibia,WMG.new,4.2
+Kyrgyzstan,WMG.new,0.0
+Iraq,WMG.new,0.0
+Bhutan,WMG.new,59.7
+Nicaragua,WMG.new,11.4
+Sri Lanka,WMG.new,4.4
+Oman,WMG.new,0.0
+Philippines,WMG.new,17.4
+Malawi,WMG.new,0.0
+Burkina Faso,WMG.new,10.2
+Tajikistan,WMG.new,0.0
+Equatorial Guinea,WMG.new,0.0
+Indonesia,WMG.new,49.8
+Honduras,WMG.new,40.3
+Kiribati,WMG.new,0.0
+Sao Tome and Principe,WMG.new,0.0
+China,WMG.new,51.8
+Samoa,WMG.new,51.7
+Qatar,WMG.new,60.2
+Zimbabwe,WMG.new,11.0
+Central African Republic,WMG.new,0.0
+Dem. Rep. Congo,WMG.new,3.5
+Guyana,WMG.new,44.2
+Maldives,WMG.new,9.6
+Uganda,WMG.new,4.9
+Timor-Leste,WMG.new,0.0
+Sudan,WMG.new,53.8
+Laos,WMG.new,18.7
+Zambia,WMG.new,0.0
+Kenya,WMG.new,5.5
+Ethiopia,WMG.new,0.0
+Fiji,WMG.new,40.0
+Mozambique,WMG.new,0.7
+Eswatini,WMG.new,0.0
+Rwanda,WMG.new,0.0
+Cambodia,WMG.new,0.0
+Cameroon,WMG.new,10.2
+Viet Nam,WMG.new,22.8
+Pakistan,WMG.new,31.1
+Micronesia,WMG.new,0.0
+Cabo Verde,WMG.new,0.0
+Nepal,WMG.new,30.5
+Papua New Guinea,WMG.new,43.9
+Mongolia,WMG.new,0.0
+Comoros,WMG.new,0.0
+Guatemala,WMG.new,16.6
+Tanzania,WMG.new,0.0
+Nigeria,WMG.new,7.7
+Niger,WMG.new,1.0
+Marshall Islands,WMG.new,22.1
+Republic of Congo,WMG.new,0.0
+Senegal,WMG.new,0.9
+Eritrea,WMG.new,0.0
+Benin,WMG.new,5.8
+Angola,WMG.new,0.0
+Togo,WMG.new,1.0
+Mali,WMG.new,0.0
+Guinea-Bissau,WMG.new,0.0
+Bangladesh,WMG.new,5.0
+Vanuatu,WMG.new,31.4
+Djibouti,WMG.new,0.0
+Lesotho,WMG.new,0.0
+Gambia,WMG.new,0.0
+Mauritania,WMG.new,12.5
+Ghana,WMG.new,0.0
+India,WMG.new,16.1
+Burundi,WMG.new,0.0
+Haiti,WMG.new,0.9
+Solomon Islands,WMG.new,0.0
+Chad,WMG.new,0.0
+Madagascar,WMG.new,0.6
+Guinea,WMG.new,2.5
+Cote d'Ivoire,WMG.new,2.1
+Sierra Leone,WMG.new,0.0
+Afghanistan,WMG.new,0.0
+Myanmar,WMG.new,0.0
+Liberia,WMG.new,0.0
+Denmark,BDH.new,81.7
+Luxembourg,BDH.new,85.5
+Switzerland,BDH.new,63.0
+United Kingdom,BDH.new,88.0
+France,BDH.new,88.3
+Austria,BDH.new,85.5
+Finland,BDH.new,75.5
+Sweden,BDH.new,72.5
+Norway,BDH.new,71.5
+Germany,BDH.new,88.8
+Netherlands,BDH.new,83.7
+Japan,BDH.new,76.6
+Australia,BDH.new,83.7
+Spain,BDH.new,87.6
+Belgium,BDH.new,87.4
+Ireland,BDH.new,65.8
+Iceland,BDH.new,63.2
+Slovenia,BDH.new,86.4
+New Zealand,BDH.new,84.0
+Czech Republic,BDH.new,85.7
+Italy,BDH.new,75.6
+Canada,BDH.new,60.5
+Malta,BDH.new,75.1
+United States of America,BDH.new,67.5
+Greece,BDH.new,72.6
+Slovakia,BDH.new,85.0
+Portugal,BDH.new,73.0
+South Korea,BDH.new,62.6
+Israel,BDH.new,47.6
+Estonia,BDH.new,87.0
+Cyprus,BDH.new,56.5
+Romania,BDH.new,85.0
+Hungary,BDH.new,82.0
+Croatia,BDH.new,82.6
+Lithuania,BDH.new,87.5
+Latvia,BDH.new,86.7
+Poland,BDH.new,89.0
+Seychelles,BDH.new,78.9
+Singapore,BDH.new,20.9
+Taiwan,BDH.new,65.0
+Bulgaria,BDH.new,77.7
+United Arab Emirates,BDH.new,80.9
+North Macedonia,BDH.new,62.1
+Chile,BDH.new,65.3
+Serbia,BDH.new,57.4
+Brunei Darussalam,BDH.new,59.2
+Kuwait,BDH.new,66.0
+Jordan,BDH.new,32.2
+Belarus,BDH.new,61.2
+Colombia,BDH.new,76.8
+Mexico,BDH.new,72.9
+Costa Rica,BDH.new,70.1
+Armenia,BDH.new,79.2
+Argentina,BDH.new,49.1
+Brazil,BDH.new,78.1
+Ecuador,BDH.new,77.3
+Bahrain,BDH.new,18.9
+Russia,BDH.new,54.1
+Venezuela,BDH.new,75.1
+Ukraine,BDH.new,37.7
+Uruguay,BDH.new,25.0
+Albania,BDH.new,68.2
+Antigua and Barbuda,BDH.new,55.7
+Cuba,BDH.new,51.1
+Saint Vincent and the Grenadines,BDH.new,47.6
+Jamaica,BDH.new,58.2
+Iran,BDH.new,38.4
+Malaysia,BDH.new,55.1
+Trinidad and Tobago,BDH.new,67.8
+Panama,BDH.new,60.4
+Tunisia,BDH.new,37.1
+Azerbaijan,BDH.new,56.9
+Paraguay,BDH.new,62.8
+Montenegro,BDH.new,36.6
+Dominican Republic,BDH.new,81.6
+Gabon,BDH.new,86.0
+Barbados,BDH.new,12.6
+Thailand,BDH.new,53.0
+Bosnia and Herzegovina,BDH.new,32.9
+Lebanon,BDH.new,21.8
+Suriname,BDH.new,63.6
+Tonga,BDH.new,37.3
+Mauritius,BDH.new,19.3
+Algeria,BDH.new,39.0
+Kazakhstan,BDH.new,41.6
+Dominica,BDH.new,56.3
+Moldova,BDH.new,27.9
+Uzbekistan,BDH.new,37.6
+Bolivia,BDH.new,83.6
+Peru,BDH.new,59.5
+Saudi Arabia,BDH.new,38.8
+Turkmenistan,BDH.new,39.7
+Bahamas,BDH.new,78.8
+Egypt,BDH.new,50.6
+El Salvador,BDH.new,35.8
+Grenada,BDH.new,31.5
+South Africa,BDH.new,63.2
+Saint Lucia,BDH.new,36.9
+Turkey,BDH.new,15.1
+Morocco,BDH.new,67.4
+Belize,BDH.new,87.9
+Georgia,BDH.new,46.2
+Botswana,BDH.new,91.6
+Namibia,BDH.new,76.6
+Kyrgyzstan,BDH.new,39.2
+Iraq,BDH.new,40.5
+Bhutan,BDH.new,87.2
+Nicaragua,BDH.new,59.6
+Sri Lanka,BDH.new,61.1
+Oman,BDH.new,28.2
+Philippines,BDH.new,56.6
+Malawi,BDH.new,84.2
+Burkina Faso,BDH.new,77.8
+Tajikistan,BDH.new,65.8
+Equatorial Guinea,BDH.new,66.0
+Indonesia,BDH.new,56.3
+Honduras,BDH.new,59.9
+Kiribati,BDH.new,82.1
+Sao Tome and Principe,BDH.new,58.4
+China,BDH.new,19.0
+Samoa,BDH.new,29.9
+Qatar,BDH.new,41.3
+Zimbabwe,BDH.new,87.0
+Central African Republic,BDH.new,84.7
+Dem. Rep. Congo,BDH.new,73.3
+Guyana,BDH.new,51.0
+Maldives,BDH.new,6.5
+Uganda,BDH.new,81.4
+Timor-Leste,BDH.new,64.5
+Sudan,BDH.new,46.6
+Laos,BDH.new,69.7
+Zambia,BDH.new,90.4
+Kenya,BDH.new,53.5
+Ethiopia,BDH.new,72.2
+Fiji,BDH.new,25.1
+Mozambique,BDH.new,67.4
+Eswatini,BDH.new,38.4
+Rwanda,BDH.new,57.4
+Cambodia,BDH.new,60.1
+Cameroon,BDH.new,48.6
+Viet Nam,BDH.new,33.3
+Pakistan,BDH.new,46.1
+Micronesia,BDH.new,6.9
+Cabo Verde,BDH.new,14.3
+Nepal,BDH.new,62.6
+Papua New Guinea,BDH.new,27.3
+Mongolia,BDH.new,73.1
+Comoros,BDH.new,36.3
+Guatemala,BDH.new,41.3
+Tanzania,BDH.new,70.7
+Nigeria,BDH.new,53.6
+Niger,BDH.new,77.6
+Marshall Islands,BDH.new,11.4
+Republic of Congo,BDH.new,71.7
+Senegal,BDH.new,68.7
+Eritrea,BDH.new,33.7
+Benin,BDH.new,67.0
+Angola,BDH.new,39.3
+Togo,BDH.new,64.2
+Mali,BDH.new,59.6
+Guinea-Bissau,BDH.new,72.2
+Bangladesh,BDH.new,46.8
+Vanuatu,BDH.new,30.0
+Djibouti,BDH.new,23.0
+Lesotho,BDH.new,22.5
+Gambia,BDH.new,32.6
+Mauritania,BDH.new,19.2
+Ghana,BDH.new,58.9
+India,BDH.new,33.7
+Burundi,BDH.new,52.3
+Haiti,BDH.new,34.5
+Solomon Islands,BDH.new,15.3
+Chad,BDH.new,69.0
+Madagascar,BDH.new,25.0
+Guinea,BDH.new,59.9
+Cote d'Ivoire,BDH.new,62.0
+Sierra Leone,BDH.new,52.9
+Afghanistan,BDH.new,21.9
+Myanmar,BDH.new,31.0
+Liberia,BDH.new,32.6
+Denmark,ECS.new,30.2
+Luxembourg,ECS.new,34.3
+Switzerland,ECS.new,46.4
+United Kingdom,ECS.new,28.3
+France,ECS.new,36.1
+Austria,ECS.new,35.6
+Finland,ECS.new,20.8
+Sweden,ECS.new,22.4
+Norway,ECS.new,32.1
+Germany,ECS.new,39.7
+Netherlands,ECS.new,42.8
+Japan,ECS.new,41.7
+Australia,ECS.new,27.9
+Spain,ECS.new,24.4
+Belgium,ECS.new,32.5
+Ireland,ECS.new,27.4
+Iceland,ECS.new,100.0
+Slovenia,ECS.new,37.1
+New Zealand,ECS.new,28.2
+Czech Republic,ECS.new,26.7
+Italy,ECS.new,37.9
+Canada,ECS.new,30.1
+Malta,ECS.new,100.0
+United States of America,ECS.new,26.8
+Greece,ECS.new,43.9
+Slovakia,ECS.new,32.1
+Portugal,ECS.new,7.4
+South Korea,ECS.new,32.2
+Israel,ECS.new,40.6
+Estonia,ECS.new,22.4
+Cyprus,ECS.new,38.6
+Romania,ECS.new,40.9
+Hungary,ECS.new,28.2
+Croatia,ECS.new,40.3
+Lithuania,ECS.new,24.6
+Latvia,ECS.new,21.4
+Poland,ECS.new,27.1
+Seychelles,ECS.new,84.3
+Singapore,ECS.new,18.4
+Taiwan,ECS.new,49.2
+Bulgaria,ECS.new,41.4
+United Arab Emirates,ECS.new,100.0
+North Macedonia,ECS.new,42.3
+Chile,ECS.new,27.5
+Serbia,ECS.new,45.8
+Brunei Darussalam,ECS.new,34.4
+Kuwait,ECS.new,48.4
+Jordan,ECS.new,78.9
+Belarus,ECS.new,27.9
+Colombia,ECS.new,36.4
+Mexico,ECS.new,32.5
+Costa Rica,ECS.new,35.4
+Armenia,ECS.new,81.5
+Argentina,ECS.new,29.4
+Brazil,ECS.new,27.9
+Ecuador,ECS.new,38.3
+Bahrain,ECS.new,100.0
+Russia,ECS.new,28.6
+Venezuela,ECS.new,40.6
+Ukraine,ECS.new,30.2
+Uruguay,ECS.new,21.0
+Albania,ECS.new,43.2
+Antigua and Barbuda,ECS.new,38.8
+Cuba,ECS.new,25.2
+Saint Vincent and the Grenadines,ECS.new,56.5
+Jamaica,ECS.new,35.2
+Iran,ECS.new,88.8
+Malaysia,ECS.new,12.8
+Trinidad and Tobago,ECS.new,35.9
+Panama,ECS.new,33.1
+Tunisia,ECS.new,22.5
+Azerbaijan,ECS.new,80.5
+Paraguay,ECS.new,20.2
+Montenegro,ECS.new,44.3
+Dominican Republic,ECS.new,26.6
+Gabon,ECS.new,44.7
+Barbados,ECS.new,37.1
+Thailand,ECS.new,24.3
+Bosnia and Herzegovina,ECS.new,53.4
+Lebanon,ECS.new,36.6
+Suriname,ECS.new,51.3
+Tonga,ECS.new,
+Mauritius,ECS.new,49.5
+Algeria,ECS.new,24.0
+Kazakhstan,ECS.new,68.4
+Dominica,ECS.new,5.3
+Moldova,ECS.new,45.8
+Uzbekistan,ECS.new,70.4
+Bolivia,ECS.new,30.0
+Peru,ECS.new,37.0
+Saudi Arabia,ECS.new,96.9
+Turkmenistan,ECS.new,96.2
+Bahamas,ECS.new,31.6
+Egypt,ECS.new,62.5
+El Salvador,ECS.new,33.5
+Grenada,ECS.new,43.6
+South Africa,ECS.new,20.6
+Saint Lucia,ECS.new,50.7
+Turkey,ECS.new,37.1
+Morocco,ECS.new,40.8
+Belize,ECS.new,23.5
+Georgia,ECS.new,78.0
+Botswana,ECS.new,66.1
+Namibia,ECS.new,55.1
+Kyrgyzstan,ECS.new,91.1
+Iraq,ECS.new,91.8
+Bhutan,ECS.new,60.2
+Nicaragua,ECS.new,20.1
+Sri Lanka,ECS.new,37.8
+Oman,ECS.new,67.0
+Philippines,ECS.new,31.9
+Malawi,ECS.new,22.8
+Burkina Faso,ECS.new,95.5
+Tajikistan,ECS.new,97.6
+Equatorial Guinea,ECS.new,33.7
+Indonesia,ECS.new,20.3
+Honduras,ECS.new,21.2
+Kiribati,ECS.new,
+Sao Tome and Principe,ECS.new,100.0
+China,ECS.new,34.3
+Samoa,ECS.new,
+Qatar,ECS.new,0.0
+Zimbabwe,ECS.new,23.1
+Central African Republic,ECS.new,50.7
+Dem. Rep. Congo,ECS.new,27.7
+Guyana,ECS.new,52.3
+Maldives,ECS.new,78.2
+Uganda,ECS.new,24.4
+Timor-Leste,ECS.new,43.8
+Sudan,ECS.new,59.9
+Laos,ECS.new,16.6
+Zambia,ECS.new,31.1
+Kenya,ECS.new,31.1
+Ethiopia,ECS.new,42.2
+Fiji,ECS.new,38.1
+Mozambique,ECS.new,24.5
+Eswatini,ECS.new,24.0
+Rwanda,ECS.new,28.4
+Cambodia,ECS.new,19.0
+Cameroon,ECS.new,31.5
+Viet Nam,ECS.new,16.4
+Pakistan,ECS.new,80.9
+Micronesia,ECS.new,100.0
+Cabo Verde,ECS.new,93.7
+Nepal,ECS.new,67.8
+Papua New Guinea,ECS.new,34.2
+Mongolia,ECS.new,41.7
+Comoros,ECS.new,35.7
+Guatemala,ECS.new,19.5
+Tanzania,ECS.new,28.3
+Nigeria,ECS.new,23.4
+Niger,ECS.new,97.7
+Marshall Islands,ECS.new,
+Republic of Congo,ECS.new,35.8
+Senegal,ECS.new,25.8
+Eritrea,ECS.new,97.1
+Benin,ECS.new,24.4
+Angola,ECS.new,33.7
+Togo,ECS.new,28.1
+Mali,ECS.new,23.4
+Guinea-Bissau,ECS.new,22.1
+Bangladesh,ECS.new,22.8
+Vanuatu,ECS.new,49.7
+Djibouti,ECS.new,73.9
+Lesotho,ECS.new,47.3
+Gambia,ECS.new,41.1
+Mauritania,ECS.new,97.2
+Ghana,ECS.new,15.4
+India,ECS.new,33.8
+Burundi,ECS.new,34.7
+Haiti,ECS.new,26.2
+Solomon Islands,ECS.new,25.5
+Chad,ECS.new,22.2
+Madagascar,ECS.new,14.6
+Guinea,ECS.new,11.5
+Cote d'Ivoire,ECS.new,15.7
+Sierra Leone,ECS.new,9.6
+Afghanistan,ECS.new,93.6
+Myanmar,ECS.new,25.9
+Liberia,ECS.new,14.6
+Denmark,FSH.new,13.2
+Luxembourg,FSH.new,
+Switzerland,FSH.new,
+United Kingdom,FSH.new,8.8
+France,FSH.new,12.1
+Austria,FSH.new,
+Finland,FSH.new,12.8
+Sweden,FSH.new,11.6
+Norway,FSH.new,9.8
+Germany,FSH.new,14.0
+Netherlands,FSH.new,13.1
+Japan,FSH.new,35.2
+Australia,FSH.new,3.4
+Spain,FSH.new,17.9
+Belgium,FSH.new,9.0
+Ireland,FSH.new,9.1
+Iceland,FSH.new,10.1
+Slovenia,FSH.new,
+New Zealand,FSH.new,5.4
+Czech Republic,FSH.new,
+Italy,FSH.new,14.9
+Canada,FSH.new,11.0
+Malta,FSH.new,12.2
+United States of America,FSH.new,6.6
+Greece,FSH.new,15.7
+Slovakia,FSH.new,
+Portugal,FSH.new,33.1
+South Korea,FSH.new,12.6
+Israel,FSH.new,45.5
+Estonia,FSH.new,16.4
+Cyprus,FSH.new,20.2
+Romania,FSH.new,54.5
+Hungary,FSH.new,
+Croatia,FSH.new,11.8
+Lithuania,FSH.new,14.5
+Latvia,FSH.new,7.3
+Poland,FSH.new,8.0
+Seychelles,FSH.new,18.1
+Singapore,FSH.new,71.4
+Taiwan,FSH.new,13.8
+Bulgaria,FSH.new,12.9
+United Arab Emirates,FSH.new,14.5
+North Macedonia,FSH.new,
+Chile,FSH.new,16.6
+Serbia,FSH.new,
+Brunei Darussalam,FSH.new,9.3
+Kuwait,FSH.new,14.9
+Jordan,FSH.new,
+Belarus,FSH.new,
+Colombia,FSH.new,15.8
+Mexico,FSH.new,12.8
+Costa Rica,FSH.new,10.8
+Armenia,FSH.new,
+Argentina,FSH.new,3.2
+Brazil,FSH.new,8.3
+Ecuador,FSH.new,13.5
+Bahrain,FSH.new,0.0
+Russia,FSH.new,4.3
+Venezuela,FSH.new,12.3
+Ukraine,FSH.new,12.4
+Uruguay,FSH.new,6.5
+Albania,FSH.new,8.9
+Antigua and Barbuda,FSH.new,5.0
+Cuba,FSH.new,10.0
+Saint Vincent and the Grenadines,FSH.new,18.5
+Jamaica,FSH.new,4.7
+Iran,FSH.new,13.8
+Malaysia,FSH.new,8.6
+Trinidad and Tobago,FSH.new,11.8
+Panama,FSH.new,9.1
+Tunisia,FSH.new,18.3
+Azerbaijan,FSH.new,
+Paraguay,FSH.new,
+Montenegro,FSH.new,6.6
+Dominican Republic,FSH.new,21.8
+Gabon,FSH.new,7.3
+Barbados,FSH.new,18.4
+Thailand,FSH.new,11.1
+Bosnia and Herzegovina,FSH.new,
+Lebanon,FSH.new,14.2
+Suriname,FSH.new,16.8
+Tonga,FSH.new,44.7
+Mauritius,FSH.new,15.0
+Algeria,FSH.new,8.1
+Kazakhstan,FSH.new,
+Dominica,FSH.new,31.0
+Moldova,FSH.new,
+Uzbekistan,FSH.new,
+Bolivia,FSH.new,
+Peru,FSH.new,18.7
+Saudi Arabia,FSH.new,18.5
+Turkmenistan,FSH.new,
+Bahamas,FSH.new,9.9
+Egypt,FSH.new,12.1
+El Salvador,FSH.new,5.5
+Grenada,FSH.new,15.8
+South Africa,FSH.new,7.8
+Saint Lucia,FSH.new,16.2
+Turkey,FSH.new,10.8
+Morocco,FSH.new,16.7
+Belize,FSH.new,19.8
+Georgia,FSH.new,4.4
+Botswana,FSH.new,
+Namibia,FSH.new,8.6
+Kyrgyzstan,FSH.new,
+Iraq,FSH.new,
+Bhutan,FSH.new,
+Nicaragua,FSH.new,12.3
+Sri Lanka,FSH.new,11.3
+Oman,FSH.new,24.5
+Philippines,FSH.new,12.3
+Malawi,FSH.new,
+Burkina Faso,FSH.new,
+Tajikistan,FSH.new,
+Equatorial Guinea,FSH.new,14.3
+Indonesia,FSH.new,11.9
+Honduras,FSH.new,17.6
+Kiribati,FSH.new,55.4
+Sao Tome and Principe,FSH.new,17.2
+China,FSH.new,18.0
+Samoa,FSH.new,54.3
+Qatar,FSH.new,6.4
+Zimbabwe,FSH.new,
+Central African Republic,FSH.new,
+Dem. Rep. Congo,FSH.new,
+Guyana,FSH.new,7.7
+Maldives,FSH.new,46.6
+Uganda,FSH.new,
+Timor-Leste,FSH.new,46.8
+Sudan,FSH.new,9.1
+Laos,FSH.new,
+Zambia,FSH.new,
+Kenya,FSH.new,8.6
+Ethiopia,FSH.new,
+Fiji,FSH.new,59.7
+Mozambique,FSH.new,16.3
+Eswatini,FSH.new,
+Rwanda,FSH.new,
+Cambodia,FSH.new,11.3
+Cameroon,FSH.new,10.5
+Viet Nam,FSH.new,14.6
+Pakistan,FSH.new,7.6
+Micronesia,FSH.new,32.7
+Cabo Verde,FSH.new,20.7
+Nepal,FSH.new,
+Papua New Guinea,FSH.new,13.1
+Mongolia,FSH.new,
+Comoros,FSH.new,18.6
+Guatemala,FSH.new,15.4
+Tanzania,FSH.new,13.0
+Nigeria,FSH.new,10.9
+Niger,FSH.new,
+Marshall Islands,FSH.new,53.5
+Republic of Congo,FSH.new,11.4
+Senegal,FSH.new,12.8
+Eritrea,FSH.new,9.0
+Benin,FSH.new,11.7
+Angola,FSH.new,14.7
+Togo,FSH.new,11.1
+Mali,FSH.new,
+Guinea-Bissau,FSH.new,5.2
+Bangladesh,FSH.new,19.6
+Vanuatu,FSH.new,26.4
+Djibouti,FSH.new,6.2
+Lesotho,FSH.new,
+Gambia,FSH.new,10.6
+Mauritania,FSH.new,7.8
+Ghana,FSH.new,9.0
+India,FSH.new,16.9
+Burundi,FSH.new,
+Haiti,FSH.new,16.7
+Solomon Islands,FSH.new,31.8
+Chad,FSH.new,
+Madagascar,FSH.new,11.8
+Guinea,FSH.new,14.4
+Cote d'Ivoire,FSH.new,16.9
+Sierra Leone,FSH.new,18.7
+Afghanistan,FSH.new,
+Myanmar,FSH.new,9.4
+Liberia,FSH.new,10.6
+Denmark,CCH.new,95.0
+Luxembourg,CCH.new,77.5
+Switzerland,CCH.new,81.6
+United Kingdom,CCH.new,90.0
+France,CCH.new,81.9
+Austria,CCH.new,71.3
+Finland,CCH.new,77.0
+Sweden,CCH.new,77.2
+Norway,CCH.new,78.9
+Germany,CCH.new,71.5
+Netherlands,CCH.new,65.8
+Japan,CCH.new,69.5
+Australia,CCH.new,70.4
+Spain,CCH.new,71.2
+Belgium,CCH.new,70.2
+Ireland,CCH.new,66.6
+Iceland,CCH.new,60.8
+Slovenia,CCH.new,75.2
+New Zealand,CCH.new,61.5
+Czech Republic,CCH.new,76.3
+Italy,CCH.new,68.1
+Canada,CCH.new,65.7
+Malta,CCH.new,62.6
+United States of America,CCH.new,71.4
+Greece,CCH.new,66.5
+Slovakia,CCH.new,71.9
+Portugal,CCH.new,63.3
+South Korea,CCH.new,62.6
+Israel,CCH.new,56.9
+Estonia,CCH.new,59.0
+Cyprus,CCH.new,63.1
+Romania,CCH.new,84.6
+Hungary,CCH.new,71.3
+Croatia,CCH.new,70.0
+Lithuania,CCH.new,65.9
+Latvia,CCH.new,67.7
+Poland,CCH.new,65.4
+Seychelles,CCH.new,70.7
+Singapore,CCH.new,40.2
+Taiwan,CCH.new,63.1
+Bulgaria,CCH.new,69.5
+United Arab Emirates,CCH.new,38.9
+North Macedonia,CCH.new,75.2
+Chile,CCH.new,54.3
+Serbia,CCH.new,68.1
+Brunei Darussalam,CCH.new,50.9
+Kuwait,CCH.new,49.7
+Jordan,CCH.new,58.4
+Belarus,CCH.new,53.1
+Colombia,CCH.new,55.4
+Mexico,CCH.new,65.2
+Costa Rica,CCH.new,54.8
+Armenia,CCH.new,46.7
+Argentina,CCH.new,60.2
+Brazil,CCH.new,51.7
+Ecuador,CCH.new,60.2
+Bahrain,CCH.new,67.1
+Russia,CCH.new,59.9
+Venezuela,CCH.new,63.3
+Ukraine,CCH.new,69.2
+Uruguay,CCH.new,55.5
+Albania,CCH.new,56.8
+Antigua and Barbuda,CCH.new,58.5
+Cuba,CCH.new,64.2
+Saint Vincent and the Grenadines,CCH.new,70.2
+Jamaica,CCH.new,65.7
+Iran,CCH.new,55.0
+Malaysia,CCH.new,52.8
+Trinidad and Tobago,CCH.new,42.1
+Panama,CCH.new,50.3
+Tunisia,CCH.new,60.2
+Azerbaijan,CCH.new,48.6
+Paraguay,CCH.new,40.9
+Montenegro,CCH.new,65.6
+Dominican Republic,CCH.new,56.1
+Gabon,CCH.new,63.8
+Barbados,CCH.new,59.1
+Thailand,CCH.new,52.5
+Bosnia and Herzegovina,CCH.new,57.5
+Lebanon,CCH.new,56.8
+Suriname,CCH.new,52.8
+Tonga,CCH.new,56.6
+Mauritius,CCH.new,51.0
+Algeria,CCH.new,52.5
+Kazakhstan,CCH.new,44.6
+Dominica,CCH.new,55.1
+Moldova,CCH.new,52.2
+Uzbekistan,CCH.new,65.9
+Bolivia,CCH.new,40.0
+Peru,CCH.new,41.3
+Saudi Arabia,CCH.new,37.5
+Turkmenistan,CCH.new,36.4
+Bahamas,CCH.new,28.7
+Egypt,CCH.new,55.0
+El Salvador,CCH.new,62.8
+Grenada,CCH.new,59.0
+South Africa,CCH.new,62.8
+Saint Lucia,CCH.new,54.8
+Turkey,CCH.new,49.3
+Morocco,CCH.new,48.7
+Belize,CCH.new,37.7
+Georgia,CCH.new,50.1
+Botswana,CCH.new,37.9
+Namibia,CCH.new,55.4
+Kyrgyzstan,CCH.new,42.5
+Iraq,CCH.new,31.6
+Bhutan,CCH.new,24.7
+Nicaragua,CCH.new,38.0
+Sri Lanka,CCH.new,31.0
+Oman,CCH.new,32.0
+Philippines,CCH.new,42.8
+Malawi,CCH.new,34.2
+Burkina Faso,CCH.new,31.9
+Tajikistan,CCH.new,36.9
+Equatorial Guinea,CCH.new,46.1
+Indonesia,CCH.new,54.4
+Honduras,CCH.new,43.1
+Kiribati,CCH.new,32.2
+Sao Tome and Principe,CCH.new,35.0
+China,CCH.new,46.3
+Samoa,CCH.new,35.0
+Qatar,CCH.new,12.1
+Zimbabwe,CCH.new,37.0
+Central African Republic,CCH.new,45.4
+Dem. Rep. Congo,CCH.new,40.1
+Guyana,CCH.new,38.2
+Maldives,CCH.new,27.7
+Uganda,CCH.new,27.4
+Timor-Leste,CCH.new,23.4
+Sudan,CCH.new,52.8
+Laos,CCH.new,30.7
+Zambia,CCH.new,26.5
+Kenya,CCH.new,49.0
+Ethiopia,CCH.new,26.1
+Fiji,CCH.new,36.9
+Mozambique,CCH.new,31.1
+Eswatini,CCH.new,56.9
+Rwanda,CCH.new,35.9
+Cambodia,CCH.new,30.9
+Cameroon,CCH.new,66.4
+Viet Nam,CCH.new,30.7
+Pakistan,CCH.new,50.6
+Micronesia,CCH.new,39.0
+Cabo Verde,CCH.new,39.5
+Nepal,CCH.new,23.7
+Papua New Guinea,CCH.new,47.6
+Mongolia,CCH.new,16.6
+Comoros,CCH.new,41.7
+Guatemala,CCH.new,36.7
+Tanzania,CCH.new,18.7
+Nigeria,CCH.new,50.8
+Niger,CCH.new,12.5
+Marshall Islands,CCH.new,39.6
+Republic of Congo,CCH.new,37.1
+Senegal,CCH.new,30.3
+Eritrea,CCH.new,43.4
+Benin,CCH.new,30.7
+Angola,CCH.new,49.0
+Togo,CCH.new,34.4
+Mali,CCH.new,26.3
+Guinea-Bissau,CCH.new,33.6
+Bangladesh,CCH.new,35.6
+Vanuatu,CCH.new,32.0
+Djibouti,CCH.new,40.1
+Lesotho,CCH.new,52.4
+Gambia,CCH.new,35.8
+Mauritania,CCH.new,32.6
+Ghana,CCH.new,29.6
+India,CCH.new,45.0
+Burundi,CCH.new,16.8
+Haiti,CCH.new,37.0
+Solomon Islands,CCH.new,45.0
+Chad,CCH.new,17.4
+Madagascar,CCH.new,39.9
+Guinea,CCH.new,26.8
+Cote d'Ivoire,CCH.new,20.2
+Sierra Leone,CCH.new,24.9
+Afghanistan,CCH.new,22.2
+Myanmar,CCH.new,22.2
+Liberia,CCH.new,24.9
+Denmark,APE.new,100.0
+Luxembourg,APE.new,100.0
+Switzerland,APE.new,100.0
+United Kingdom,APE.new,100.0
+France,APE.new,100.0
+Austria,APE.new,100.0
+Finland,APE.new,93.1
+Sweden,APE.new,100.0
+Norway,APE.new,99.2
+Germany,APE.new,96.0
+Netherlands,APE.new,100.0
+Japan,APE.new,77.7
+Australia,APE.new,90.3
+Spain,APE.new,100.0
+Belgium,APE.new,100.0
+Ireland,APE.new,100.0
+Iceland,APE.new,44.4
+Slovenia,APE.new,90.0
+New Zealand,APE.new,87.4
+Czech Republic,APE.new,100.0
+Italy,APE.new,81.4
+Canada,APE.new,100.0
+Malta,APE.new,80.8
+United States of America,APE.new,100.0
+Greece,APE.new,78.9
+Slovakia,APE.new,100.0
+Portugal,APE.new,93.5
+South Korea,APE.new,100.0
+Israel,APE.new,97.8
+Estonia,APE.new,96.6
+Cyprus,APE.new,91.5
+Romania,APE.new,100.0
+Hungary,APE.new,96.9
+Croatia,APE.new,90.8
+Lithuania,APE.new,96.6
+Latvia,APE.new,94.8
+Poland,APE.new,89.6
+Seychelles,APE.new,86.3
+Singapore,APE.new,79.5
+Taiwan,APE.new,100.0
+Bulgaria,APE.new,100.0
+United Arab Emirates,APE.new,83.4
+North Macedonia,APE.new,100.0
+Chile,APE.new,34.6
+Serbia,APE.new,89.0
+Brunei Darussalam,APE.new,41.8
+Kuwait,APE.new,81.7
+Jordan,APE.new,69.0
+Belarus,APE.new,80.4
+Colombia,APE.new,52.5
+Mexico,APE.new,71.4
+Costa Rica,APE.new,33.6
+Armenia,APE.new,46.8
+Argentina,APE.new,59.3
+Brazil,APE.new,54.0
+Ecuador,APE.new,28.4
+Bahrain,APE.new,93.1
+Russia,APE.new,81.0
+Venezuela,APE.new,41.4
+Ukraine,APE.new,76.6
+Uruguay,APE.new,36.4
+Albania,APE.new,100.0
+Antigua and Barbuda,APE.new,36.6
+Cuba,APE.new,76.1
+Saint Vincent and the Grenadines,APE.new,38.9
+Jamaica,APE.new,78.6
+Iran,APE.new,80.8
+Malaysia,APE.new,41.2
+Trinidad and Tobago,APE.new,77.9
+Panama,APE.new,66.1
+Tunisia,APE.new,84.2
+Azerbaijan,APE.new,100.0
+Paraguay,APE.new,70.5
+Montenegro,APE.new,85.2
+Dominican Republic,APE.new,79.3
+Gabon,APE.new,90.2
+Barbados,APE.new,53.3
+Thailand,APE.new,78.7
+Bosnia and Herzegovina,APE.new,78.1
+Lebanon,APE.new,67.1
+Suriname,APE.new,82.4
+Tonga,APE.new,65.5
+Mauritius,APE.new,49.2
+Algeria,APE.new,61.7
+Kazakhstan,APE.new,75.2
+Dominica,APE.new,47.3
+Moldova,APE.new,76.1
+Uzbekistan,APE.new,70.9
+Bolivia,APE.new,26.4
+Peru,APE.new,41.0
+Saudi Arabia,APE.new,34.7
+Turkmenistan,APE.new,44.8
+Bahamas,APE.new,18.0
+Egypt,APE.new,56.3
+El Salvador,APE.new,86.3
+Grenada,APE.new,40.0
+South Africa,APE.new,69.7
+Saint Lucia,APE.new,36.7
+Turkey,APE.new,84.0
+Morocco,APE.new,80.5
+Belize,APE.new,11.4
+Georgia,APE.new,0.9
+Botswana,APE.new,70.0
+Namibia,APE.new,68.2
+Kyrgyzstan,APE.new,18.1
+Iraq,APE.new,14.1
+Bhutan,APE.new,18.2
+Nicaragua,APE.new,80.2
+Sri Lanka,APE.new,53.1
+Oman,APE.new,60.0
+Philippines,APE.new,68.4
+Malawi,APE.new,53.1
+Burkina Faso,APE.new,40.6
+Tajikistan,APE.new,29.8
+Equatorial Guinea,APE.new,76.4
+Indonesia,APE.new,40.4
+Honduras,APE.new,60.9
+Kiribati,APE.new,49.9
+Sao Tome and Principe,APE.new,47.1
+China,APE.new,58.6
+Samoa,APE.new,44.0
+Qatar,APE.new,64.4
+Zimbabwe,APE.new,41.0
+Central African Republic,APE.new,51.8
+Dem. Rep. Congo,APE.new,47.8
+Guyana,APE.new,28.6
+Maldives,APE.new,26.7
+Uganda,APE.new,44.4
+Timor-Leste,APE.new,64.7
+Sudan,APE.new,64.8
+Laos,APE.new,21.3
+Zambia,APE.new,22.5
+Kenya,APE.new,36.8
+Ethiopia,APE.new,23.6
+Fiji,APE.new,53.2
+Mozambique,APE.new,54.1
+Eswatini,APE.new,60.5
+Rwanda,APE.new,50.5
+Cambodia,APE.new,45.4
+Cameroon,APE.new,39.8
+Viet Nam,APE.new,45.7
+Pakistan,APE.new,58.8
+Micronesia,APE.new,58.8
+Cabo Verde,APE.new,35.1
+Nepal,APE.new,44.4
+Papua New Guinea,APE.new,58.2
+Mongolia,APE.new,34.9
+Comoros,APE.new,44.5
+Guatemala,APE.new,44.8
+Tanzania,APE.new,40.1
+Nigeria,APE.new,66.3
+Niger,APE.new,0.9
+Marshall Islands,APE.new,50.6
+Republic of Congo,APE.new,0.0
+Senegal,APE.new,49.5
+Eritrea,APE.new,57.1
+Benin,APE.new,33.4
+Angola,APE.new,2.6
+Togo,APE.new,49.9
+Mali,APE.new,49.9
+Guinea-Bissau,APE.new,56.1
+Bangladesh,APE.new,15.3
+Vanuatu,APE.new,16.4
+Djibouti,APE.new,55.5
+Lesotho,APE.new,44.0
+Gambia,APE.new,53.9
+Mauritania,APE.new,49.2
+Ghana,APE.new,31.5
+India,APE.new,37.1
+Burundi,APE.new,45.7
+Haiti,APE.new,23.8
+Solomon Islands,APE.new,57.5
+Chad,APE.new,54.7
+Madagascar,APE.new,40.5
+Guinea,APE.new,30.0
+Cote d'Ivoire,APE.new,31.8
+Sierra Leone,APE.new,40.1
+Afghanistan,APE.new,0.0
+Myanmar,APE.new,50.7
+Liberia,APE.new,32.7
+Denmark,AGR.new,73.0
+Luxembourg,AGR.new,42.2
+Switzerland,AGR.new,47.6
+United Kingdom,AGR.new,54.3
+France,AGR.new,65.2
+Austria,AGR.new,68.0
+Finland,AGR.new,52.4
+Sweden,AGR.new,63.6
+Norway,AGR.new,39.3
+Germany,AGR.new,61.9
+Netherlands,AGR.new,40.0
+Japan,AGR.new,55.9
+Australia,AGR.new,49.2
+Spain,AGR.new,36.2
+Belgium,AGR.new,47.3
+Ireland,AGR.new,47.3
+Iceland,AGR.new,18.5
+Slovenia,AGR.new,47.0
+New Zealand,AGR.new,57.5
+Czech Republic,AGR.new,58.7
+Italy,AGR.new,56.8
+Canada,AGR.new,67.3
+Malta,AGR.new,28.3
+United States of America,AGR.new,71.9
+Greece,AGR.new,52.6
+Slovakia,AGR.new,68.8
+Portugal,AGR.new,22.3
+South Korea,AGR.new,51.7
+Israel,AGR.new,34.9
+Estonia,AGR.new,51.8
+Cyprus,AGR.new,27.7
+Romania,AGR.new,65.7
+Hungary,AGR.new,73.1
+Croatia,AGR.new,65.4
+Lithuania,AGR.new,64.1
+Latvia,AGR.new,62.8
+Poland,AGR.new,57.4
+Seychelles,AGR.new,8.8
+Singapore,AGR.new,19.7
+Taiwan,AGR.new,53.4
+Bulgaria,AGR.new,63.6
+United Arab Emirates,AGR.new,13.7
+North Macedonia,AGR.new,40.9
+Chile,AGR.new,40.2
+Serbia,AGR.new,69.9
+Brunei Darussalam,AGR.new,0.0
+Kuwait,AGR.new,44.9
+Jordan,AGR.new,25.0
+Belarus,AGR.new,45.9
+Colombia,AGR.new,22.3
+Mexico,AGR.new,38.8
+Costa Rica,AGR.new,19.4
+Armenia,AGR.new,57.6
+Argentina,AGR.new,78.4
+Brazil,AGR.new,65.0
+Ecuador,AGR.new,29.2
+Bahrain,AGR.new,33.2
+Russia,AGR.new,60.5
+Venezuela,AGR.new,22.9
+Ukraine,AGR.new,79.5
+Uruguay,AGR.new,71.4
+Albania,AGR.new,37.6
+Antigua and Barbuda,AGR.new,5.1
+Cuba,AGR.new,21.4
+Saint Vincent and the Grenadines,AGR.new,35.4
+Jamaica,AGR.new,22.4
+Iran,AGR.new,33.8
+Malaysia,AGR.new,63.4
+Trinidad and Tobago,AGR.new,5.2
+Panama,AGR.new,25.6
+Tunisia,AGR.new,24.3
+Azerbaijan,AGR.new,64.3
+Paraguay,AGR.new,77.9
+Montenegro,AGR.new,19.2
+Dominican Republic,AGR.new,24.2
+Gabon,AGR.new,20.6
+Barbados,AGR.new,11.9
+Thailand,AGR.new,33.1
+Bosnia and Herzegovina,AGR.new,25.1
+Lebanon,AGR.new,34.1
+Suriname,AGR.new,59.4
+Tonga,AGR.new,34.1
+Mauritius,AGR.new,20.0
+Algeria,AGR.new,44.8
+Kazakhstan,AGR.new,45.6
+Dominica,AGR.new,17.8
+Moldova,AGR.new,50.8
+Uzbekistan,AGR.new,47.5
+Bolivia,AGR.new,68.9
+Peru,AGR.new,37.1
+Saudi Arabia,AGR.new,64.3
+Turkmenistan,AGR.new,39.9
+Bahamas,AGR.new,14.0
+Egypt,AGR.new,53.0
+El Salvador,AGR.new,23.9
+Grenada,AGR.new,28.9
+South Africa,AGR.new,54.4
+Saint Lucia,AGR.new,6.4
+Turkey,AGR.new,57.4
+Morocco,AGR.new,38.9
+Belize,AGR.new,19.9
+Georgia,AGR.new,16.9
+Botswana,AGR.new,4.8
+Namibia,AGR.new,11.5
+Kyrgyzstan,AGR.new,52.4
+Iraq,AGR.new,37.4
+Bhutan,AGR.new,50.2
+Nicaragua,AGR.new,24.1
+Sri Lanka,AGR.new,33.2
+Oman,AGR.new,50.6
+Philippines,AGR.new,44.1
+Malawi,AGR.new,39.0
+Burkina Faso,AGR.new,39.7
+Tajikistan,AGR.new,45.5
+Equatorial Guinea,AGR.new,28.1
+Indonesia,AGR.new,51.8
+Honduras,AGR.new,27.5
+Kiribati,AGR.new,26.5
+Sao Tome and Principe,AGR.new,18.2
+China,AGR.new,49.5
+Samoa,AGR.new,27.7
+Qatar,AGR.new,26.6
+Zimbabwe,AGR.new,23.6
+Central African Republic,AGR.new,21.9
+Dem. Rep. Congo,AGR.new,31.7
+Guyana,AGR.new,40.2
+Maldives,AGR.new,14.1
+Uganda,AGR.new,38.7
+Timor-Leste,AGR.new,34.9
+Sudan,AGR.new,24.7
+Laos,AGR.new,69.2
+Zambia,AGR.new,36.6
+Kenya,AGR.new,35.9
+Ethiopia,AGR.new,53.3
+Fiji,AGR.new,11.1
+Mozambique,AGR.new,34.4
+Eswatini,AGR.new,41.1
+Rwanda,AGR.new,39.4
+Cambodia,AGR.new,59.0
+Cameroon,AGR.new,40.4
+Viet Nam,AGR.new,50.3
+Pakistan,AGR.new,35.1
+Micronesia,AGR.new,19.4
+Cabo Verde,AGR.new,16.7
+Nepal,AGR.new,45.8
+Papua New Guinea,AGR.new,31.3
+Mongolia,AGR.new,15.4
+Comoros,AGR.new,37.3
+Guatemala,AGR.new,28.7
+Tanzania,AGR.new,44.0
+Nigeria,AGR.new,39.0
+Niger,AGR.new,33.6
+Marshall Islands,AGR.new,1.7
+Republic of Congo,AGR.new,34.3
+Senegal,AGR.new,38.6
+Eritrea,AGR.new,22.3
+Benin,AGR.new,42.7
+Angola,AGR.new,29.3
+Togo,AGR.new,39.8
+Mali,AGR.new,43.4
+Guinea-Bissau,AGR.new,27.5
+Bangladesh,AGR.new,49.9
+Vanuatu,AGR.new,33.0
+Djibouti,AGR.new,15.7
+Lesotho,AGR.new,27.4
+Gambia,AGR.new,36.1
+Mauritania,AGR.new,39.7
+Ghana,AGR.new,41.0
+India,AGR.new,34.7
+Burundi,AGR.new,37.0
+Haiti,AGR.new,31.4
+Solomon Islands,AGR.new,8.6
+Chad,AGR.new,38.7
+Madagascar,AGR.new,50.5
+Guinea,AGR.new,35.0
+Cote d'Ivoire,AGR.new,32.0
+Sierra Leone,AGR.new,42.7
+Afghanistan,AGR.new,51.0
+Myanmar,AGR.new,53.7
+Liberia,AGR.new,26.2
+Denmark,WRS.new,100.0
+Luxembourg,WRS.new,98.5
+Switzerland,WRS.new,96.7
+United Kingdom,WRS.new,98.5
+France,WRS.new,88.0
+Austria,WRS.new,94.0
+Finland,WRS.new,100.0
+Sweden,WRS.new,100.0
+Norway,WRS.new,64.3
+Germany,WRS.new,97.0
+Netherlands,WRS.new,100.0
+Japan,WRS.new,75.3
+Australia,WRS.new,92.7
+Spain,WRS.new,91.5
+Belgium,WRS.new,67.9
+Ireland,WRS.new,89.7
+Iceland,WRS.new,15.6
+Slovenia,WRS.new,89.1
+New Zealand,WRS.new,79.9
+Czech Republic,WRS.new,60.8
+Italy,WRS.new,58.8
+Canada,WRS.new,67.4
+Malta,WRS.new,0.0
+United States of America,WRS.new,58.9
+Greece,WRS.new,81.7
+Slovakia,WRS.new,43.7
+Portugal,WRS.new,55.0
+South Korea,WRS.new,76.8
+Israel,WRS.new,81.7
+Estonia,WRS.new,69.6
+Cyprus,WRS.new,50.0
+Romania,WRS.new,30.4
+Hungary,WRS.new,53.8
+Croatia,WRS.new,51.7
+Lithuania,WRS.new,51.4
+Latvia,WRS.new,90.7
+Poland,WRS.new,60.9
+Seychelles,WRS.new,1.6
+Singapore,WRS.new,100.0
+Taiwan,WRS.new,7.1
+Bulgaria,WRS.new,13.9
+United Arab Emirates,WRS.new,76.8
+North Macedonia,WRS.new,0.9
+Chile,WRS.new,71.9
+Serbia,WRS.new,1.7
+Brunei Darussalam,WRS.new,6.0
+Kuwait,WRS.new,43.1
+Jordan,WRS.new,18.6
+Belarus,WRS.new,7.2
+Colombia,WRS.new,25.6
+Mexico,WRS.new,31.6
+Costa Rica,WRS.new,9.7
+Armenia,WRS.new,8.8
+Argentina,WRS.new,5.9
+Brazil,WRS.new,49.3
+Ecuador,WRS.new,0.0
+Bahrain,WRS.new,86.9
+Russia,WRS.new,18.5
+Venezuela,WRS.new,6.4
+Ukraine,WRS.new,14.1
+Uruguay,WRS.new,2.1
+Albania,WRS.new,2.7
+Antigua and Barbuda,WRS.new,1.3
+Cuba,WRS.new,3.6
+Saint Vincent and the Grenadines,WRS.new,0.8
+Jamaica,WRS.new,3.0
+Iran,WRS.new,3.7
+Malaysia,WRS.new,12.4
+Trinidad and Tobago,WRS.new,3.2
+Panama,WRS.new,23.1
+Tunisia,WRS.new,43.0
+Azerbaijan,WRS.new,3.8
+Paraguay,WRS.new,0.7
+Montenegro,WRS.new,8.4
+Dominican Republic,WRS.new,5.8
+Gabon,WRS.new,0.0
+Barbados,WRS.new,1.1
+Thailand,WRS.new,2.0
+Bosnia and Herzegovina,WRS.new,1.1
+Lebanon,WRS.new,38.2
+Suriname,WRS.new,0.0
+Tonga,WRS.new,0.3
+Mauritius,WRS.new,2.5
+Algeria,WRS.new,33.1
+Kazakhstan,WRS.new,28.6
+Dominica,WRS.new,1.0
+Moldova,WRS.new,9.0
+Uzbekistan,WRS.new,0.0
+Bolivia,WRS.new,3.5
+Peru,WRS.new,46.4
+Saudi Arabia,WRS.new,11.8
+Turkmenistan,WRS.new,9.8
+Bahamas,WRS.new,1.4
+Egypt,WRS.new,42.0
+El Salvador,WRS.new,0.1
+Grenada,WRS.new,0.9
+South Africa,WRS.new,21.7
+Saint Lucia,WRS.new,0.9
+Turkey,WRS.new,30.4
+Morocco,WRS.new,5.4
+Belize,WRS.new,0.6
+Georgia,WRS.new,46.6
+Botswana,WRS.new,1.0
+Namibia,WRS.new,6.2
+Kyrgyzstan,WRS.new,0.2
+Iraq,WRS.new,19.5
+Bhutan,WRS.new,0.0
+Nicaragua,WRS.new,0.0
+Sri Lanka,WRS.new,0.0
+Oman,WRS.new,13.4
+Philippines,WRS.new,0.7
+Malawi,WRS.new,0.0
+Burkina Faso,WRS.new,0.0
+Tajikistan,WRS.new,2.2
+Equatorial Guinea,WRS.new,1.2
+Indonesia,WRS.new,0.0
+Honduras,WRS.new,3.1
+Kiribati,WRS.new,0.0
+Sao Tome and Principe,WRS.new,0.3
+China,WRS.new,9.4
+Samoa,WRS.new,0.3
+Qatar,WRS.new,70.0
+Zimbabwe,WRS.new,0.0
+Central African Republic,WRS.new,0.0
+Dem. Rep. Congo,WRS.new,0.0
+Guyana,WRS.new,0.0
+Maldives,WRS.new,4.3
+Uganda,WRS.new,0.4
+Timor-Leste,WRS.new,0.3
+Sudan,WRS.new,0.0
+Laos,WRS.new,0.0
+Zambia,WRS.new,4.2
+Kenya,WRS.new,0.5
+Ethiopia,WRS.new,0.0
+Fiji,WRS.new,3.9
+Mozambique,WRS.new,0.2
+Eswatini,WRS.new,5.7
+Rwanda,WRS.new,0.0
+Cambodia,WRS.new,0.0
+Cameroon,WRS.new,0.0
+Viet Nam,WRS.new,0.3
+Pakistan,WRS.new,0.1
+Micronesia,WRS.new,0.1
+Cabo Verde,WRS.new,20.9
+Nepal,WRS.new,0.0
+Papua New Guinea,WRS.new,0.0
+Mongolia,WRS.new,3.3
+Comoros,WRS.new,0.1
+Guatemala,WRS.new,6.8
+Tanzania,WRS.new,1.4
+Nigeria,WRS.new,0.2
+Niger,WRS.new,0.0
+Marshall Islands,WRS.new,0.0
+Republic of Congo,WRS.new,0.3
+Senegal,WRS.new,0.5
+Eritrea,WRS.new,0.0
+Benin,WRS.new,0.0
+Angola,WRS.new,0.0
+Togo,WRS.new,0.0
+Mali,WRS.new,0.0
+Guinea-Bissau,WRS.new,0.0
+Bangladesh,WRS.new,0.0
+Vanuatu,WRS.new,0.0
+Djibouti,WRS.new,0.0
+Lesotho,WRS.new,0.3
+Gambia,WRS.new,0.1
+Mauritania,WRS.new,0.0
+Ghana,WRS.new,0.0
+India,WRS.new,2.2
+Burundi,WRS.new,0.0
+Haiti,WRS.new,0.0
+Solomon Islands,WRS.new,0.0
+Chad,WRS.new,0.0
+Madagascar,WRS.new,0.0
+Guinea,WRS.new,0.0
+Cote d'Ivoire,WRS.new,0.6
+Sierra Leone,WRS.new,0.0
+Afghanistan,WRS.new,0.0
+Myanmar,WRS.new,0.0
+Liberia,WRS.new,0.0
